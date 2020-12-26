@@ -1,4 +1,11 @@
-<div class="tm-qty uk-margin">
+<?php
+/**
+ * @package YOOtheme J2Store builder element
+ * @copyright Copyright (c)2020 Igor Generalov / generalov.net
+ * @license GNU GPL v3 or later
+ */
+ ?>
+ <div class="tm-qty uk-margin">
 	<div class="uk-flex">
 	    <div class="">	    			    	
 		    <a class="uk-icon-button uk-icon" uk-icon="icon: minus; width: 16; height: 16;" href="#"></a>

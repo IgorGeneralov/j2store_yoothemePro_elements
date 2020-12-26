@@ -1,3 +1,10 @@
+<?php
+/**
+ * @package YOOtheme J2Store builder element
+ * @copyright Copyright (c)2020 Igor Generalov / generalov.net
+ * @license GNU GPL v3 or later
+ */
+ ?>
 <div class="uk-margin-small">
 	<?php if ($props['link'] == '1') : ?>
 	    <div class="uk-child-width-expand uk-grid-small uk-flex-middle uk-margin-small uk-grid" uk-grid>

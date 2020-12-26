@@ -1,4 +1,10 @@
 <?php
+/**
+ * @package YOOtheme J2Store builder element
+ * @copyright Copyright (c)2020 Igor Generalov / generalov.net
+ * @license GNU GPL v3 or later
+ */
+ 
 $app = JFactory::getApplication();
 
 $el = $this->el($props['price_element'], [
